@@ -30,7 +30,7 @@ Tools Yang digunakan:
 <img width="722" alt="soal8" src="https://user-images.githubusercontent.com/61672278/139815107-d8d83cf3-2509-4ee6-bf06-ee546ef867d5.png">
 
 ## 9. Soal 9
-<img width="722" alt="soal9" src="https://user-images.githubusercontent.com/61672278/139815131-04d6cebd-af58-49a9-bb58-e770b6a6bf7f.png">
+![soal9](https://user-images.githubusercontent.com/61672278/139864435-a7036805-2cf8-4693-baee-9e451d8e74f4.png)
 
 ## 10. Soal 10
 1194044 mod 8 = 4, maka saya harus membuat bangun datar jajargenjang sebanyak 4 biji. Berikut hasilnya
