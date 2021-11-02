@@ -2,7 +2,7 @@
 Latihan Menentukan titik koordinat menggunakan python dan library pyshp.
 Tools Yang digunakan:
 - Python 3.10.0
-- QGIS Desktop 2.1.15
+- QGIS Desktop 2.18.15
 - pyshp
 
 ## 1. Soal 1
