@@ -4,7 +4,12 @@ Tools Yang digunakan:
 - Python 3.10.0
 - QGIS Desktop 2.18.15
 - pyshp
+<br>
 
+## Hasil Screenshot Latihan 1
+<details>
+<summary>Detail Screenshoot Latihan 1</summary>
+  
 ## 1. Soal 1
 ![soal1](https://user-images.githubusercontent.com/61672278/139814870-4cf47274-f88a-4dda-a34f-4c2239e93960.png)
 
@@ -35,3 +40,45 @@ Tools Yang digunakan:
 ## 10. Soal 10
 1194044 mod 8 = 4, maka saya harus membuat bangun datar jajargenjang sebanyak 4 biji. Berikut hasilnya
 ![soal10](https://user-images.githubusercontent.com/61672278/139815166-0004cfe0-3f57-4ce0-a460-7f16f874535d.png)
+    
+</details>
+<br>
+
+## Hasil Screenshoot Latihan 2
+<details>
+<summary>Detail Screenshoot Latihan 2</summary>
+  
+## 1. Soal 1
+  ![lat2-1](https://user-images.githubusercontent.com/61672278/141946292-0b4a44b9-2eaf-450c-ae53-c863d5b9dea3.png)
+
+## 2. Soal 2
+  ![lat2-2](https://user-images.githubusercontent.com/61672278/141946361-cd6f1cea-adb9-4ca9-8259-4e84efe791b5.png)
+
+## 3. Soal 3
+  ![lat2-3](https://user-images.githubusercontent.com/61672278/141946484-24cfe12d-785e-4ea5-b941-9dc2229b9e62.png)
+
+## 4. Soal 4
+  ![lat2-4](https://user-images.githubusercontent.com/61672278/141946520-63cecb84-0960-43a4-9cef-5ac7a7db7fcb.png)
+
+## 5. Soal 5
+  ![lat2-5](https://user-images.githubusercontent.com/61672278/141946588-25d3b08a-c661-4229-a72f-6af678b0a87c.png)
+
+## 6. Soal 6
+  ![lat2-6](https://user-images.githubusercontent.com/61672278/141946624-e624e60a-3638-490f-a775-8700cac3b5ae.JPG)
+
+## 7. Soal 7
+  ![lat2-7](https://user-images.githubusercontent.com/61672278/141946650-cc8d22d0-0b36-4f2b-8573-7dfa4fb870ce.png)
+
+## 8. Soal 8
+  ![lat2-8](https://user-images.githubusercontent.com/61672278/141946681-f37e58c1-225c-45a5-9bb9-4c82c07a6c8e.png)
+
+## 9. Soal 9
+  ![lat2-9](https://user-images.githubusercontent.com/61672278/141946715-ba4efe90-8fd8-4b20-8a83-80acc71ebaf5.png)
+
+## 10. Soal 10
+  ![lat2-10](https://user-images.githubusercontent.com/61672278/141946763-fbea9a0b-b7c6-477c-b44d-53791161f63e.png)
+
+## 11. Soal 11
+  ![lat2-11](https://user-images.githubusercontent.com/61672278/141946800-f17d69bf-5505-4d2d-b547-bd3848e015bb.png)
+
+</details>
